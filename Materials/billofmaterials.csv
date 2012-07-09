@@ -1,0 +1,15 @@
+Part,Part number,Quantity,Price,Total,Supplier,URL 
+Xbee Pro 900 U.Fl,602-1168-ND,2,$39.00 ,$78.00 ,Digikey,
+2.4 GHz RP-SMA Duck Antenna,WRL-00145,2,$7.95 ,$15.90 ,Sparkfun,
+RP-SMA to U.FL cable,WRL-00662,2,$4.95 ,$9.90 ,Sparkfun,
+16x2 White on Black LCD 5v,LCD-00709,1,$15.95 ,$15.95 ,Sparkfun,
+Spoke Magnet,,2-Jan,$2.99 ,$5.98 ,Amazon,http://www.amazon.com/Cateye-Spoke-Magnet-Toolfree-Set/dp/B00180RTYG/ref=sr_1_1?ie=UTF8&qid=1339955413&sr=8-1&keywords=spoke+magnet 
+Reed Switch,COM-10601,3,$1.95 ,$5.85 ,Sparkfun,
+CAT5 Cable ,,1,$2.18 ,$2.18 ,Amazon,http://www.amazon.com/Gray-Cat5e-Ethernet-Network-Cable/dp/B000HDDHIC/ref=sr_1_2?s=electronics&ie=UTF8&qid=1339655681&sr=1-2&keywords=cat5+cable 
+9V Battery Case,67,1,$3.95 ,$3.95 ,Adafruit,
+FTDI Cable,,1,,,Common part (Adafruit also has them). ,
+Boarduino,27,1,$17.50 ,$17.50 ,Adafruit,
+Altoid Tins,Buy at a store. ,,,,,
+Xbee Adapter Kit (Arduino),126,1,$10.00 ,$10.00 ,Adafruit,
+Xbee Adapter Kit (Computer),247,1,$20.00 ,$20.00 ,Adafruit,
+,,,,,,
