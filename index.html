@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Bike-cyclocomputer : An arduino compatible computer to store, send, and transmit the speed of a bike. " />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Bike-cyclocomputer</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/bobulisk/Bike-Cyclocomputer">View on GitHub</a>
+
+          <h1 id="project_title">Bike-cyclocomputer</h1>
+          <h2 id="project_tagline">An arduino compatible computer to store, send, and transmit the speed of a bike. </h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/bobulisk/Bike-Cyclocomputer/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/bobulisk/Bike-Cyclocomputer/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>Welcome to Andrew M's Bike Cyclocomputer</h3>
+
+<p>This project is designed to accurately measure the speed of a moving bicycle, display this information to the rider on an LCD screen, and then transmit speed data back to a computer using  Xbee wireless modules. An LCD screen is wired to the boarduino; the Xbee RX pin is attached to the arduino's TX pin. On the bike wheel, a magnet is attached to a spoke. Nearby, a reed switch is stationary. The reed switch must be attached to either digital pin two or three to allow for an interrupt to be used.</p>
+
+<p>The processing sketch reads serial data from an xbee and graphs it by drawing lines. The processing sketch saves the data and transforms incoming speed data into a graph. </p>
+
+<p>On the bike, a magnetic reed switch senses a magnetic field; when a magnet passes by, it is triggered. The time in between revolutions is measured and converted into MPH. </p>
+
+<p><img src="https://github.com/bobulisk/Bike-Cyclocomputer/blob/master/Pictures/processinggraph.png" alt="A graph of incoming speed data. "></p>
+
+<h3>Authors and Contributors</h3>
+
+<p>Created in June-July, 2012 by Andrew M. (<a href="https://github.com/bobulisk" class="user-mention">@bobulisk</a>).</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Bike-cyclocomputer maintained by <a href="https://github.com/bobulisk">bobulisk</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
