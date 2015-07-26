@@ -1,0 +1,1 @@
+Arduino application to track and transmit bike speed and position using magnetic reed switch. Using an XBee module, this data can be transmitted in real time to a computer, which graphs and records important information. 
